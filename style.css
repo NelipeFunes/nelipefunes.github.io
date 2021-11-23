@@ -1,0 +1,31 @@
+a {
+    color: #ff0;
+    text-decoration: none;
+
+}
+#nome{
+    font-size: xx-large;
+    color: white;
+    font-family: Arial, Times, serif;
+}
+p{
+font-size: xx-large;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Listas{
+    color: white;
+    font-size: 30px;
+    width: 30%;
+    text-decoration: underline;
+}
+
+
+#historia{
+    color: white;
+    font-size: 50px;
+}
+body{
+    background-attachment: fixed;
+    background-image:url("PlanodeFundo2.jpg");
+}
